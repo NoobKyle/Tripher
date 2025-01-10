@@ -1,3 +1,5 @@
+![Tripher Logo](./tripher.svg)
+
 # Tripher
 A comprehensive guide to building a fictional bank's technology architecture from the ground up. This repository covers everything from barebones hardware setup to the final deployment of a secure, client-facing mobile app. Includes infrastructure planning, backend API development, database design, and security protocols.
 
@@ -20,4 +22,4 @@ A comprehensive guide to building a fictional bank's technology architecture fro
 
 ## Client Web Application
 
-<p>This web application, developed with **Ionic React**, leverages a modular architecture to deliver a responsive and cross-platform banking solution. It integrates with backend services through **RESTful API endpoints**, enabling functionalities such as account management, transaction retrieval, secure fund transfers, and bill payments. The app employs **JWT-based authentication** for session management and **TLS encryption** to ensure secure data transmission. With its component-based structure and adherence to best practices, the app is designed for scalability, maintainability, and optimal performance across web and mobile platforms.</p>
+This web application, developed with **Ionic React**, leverages a modular architecture to deliver a responsive and cross-platform banking solution. It integrates with backend services through **RESTful API endpoints**, enabling functionalities such as account management, transaction retrieval, secure fund transfers, and bill payments. The app employs **JWT-based authentication** for session management and **TLS encryption** to ensure secure data transmission. With its component-based structure and adherence to best practices, the app is designed for scalability, maintainability, and optimal performance across web and mobile platforms.

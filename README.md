@@ -28,7 +28,7 @@ This web application, developed with **Ionic React**, leverages a modular archit
 
 <br/>
 
-## C# REST APi
+## C# REST API
 
 **Technologies Used:** ASP.NET Core, Entity Framework Core, Npgsql, C#, JWT Authentication, pgAdmin/DBeaver, Docker, Visual Studio, NuGet, Azure/AWS/Heroku, GitHub.
 

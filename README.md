@@ -49,6 +49,5 @@ This web application, developed with **Ionic React**, leverages a modular archit
 	|-- Startup.cs (Application configuration)  
 	|-- appsettings.json (Configuration file)  
 
-# Banking System REST API
 
 The **C# REST API** is designed for a fictional banking system, built using the **ASP.NET Core framework** and following a **microservices architecture**. The system is modular, with each microservice dedicated to a specific domain such as **Account Management**, **Transaction Processing**, **User Authentication**, and **Reporting**. These services communicate through lightweight **HTTP RESTful APIs** and **message queues** for asynchronous communication, ensuring scalability, fault tolerance, and ease of maintenance. Each microservice is containerized using **Docker**, allowing for seamless deployment and orchestration with tools like **Kubernetes**. The API includes robust security features such as **JWT-based authentication**, **role-based access control (RBAC)**, and **data encryption** to ensure the safety of sensitive banking information. 

@@ -87,6 +87,7 @@ $RECYCLE.BIN/
 # IDE directories
 .idea/
 .vscode/
+.vs
 
 # Temporary files
 *.tmp

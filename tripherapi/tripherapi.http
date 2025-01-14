@@ -1,0 +1,6 @@
+@tripherapi_HostAddress = http://localhost:5043
+
+GET {{tripherapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

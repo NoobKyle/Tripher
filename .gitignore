@@ -1,0 +1,102 @@
+# Compiled source files
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.swp
+
+# Build directories
+dist/
+build/
+out/
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+*.lock
+
+# Git-specific files
+.git/
+
+# Visual Studio specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+debug/
+release/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+*.ilk
+*.meta
+*.pdb
+*.ipch
+*.tlog
+*.log
+
+# Auto-generated files
+*.nupkg
+*.snupkg
+*.cache
+*.log
+*.csproj.user
+*.vbproj.user
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+
+# Package management
+packages/
+*.nuget.props
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE directories
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+*.lock
+
+# Visual Studio Code Coverage
+*.coverage
+*.coveragexml
+
+# Publish output
+.publish/

@@ -66,6 +66,7 @@ The **C# REST API** is designed for a fictional banking system, built using the 
 Tripher systems require a server-grade machine with at least a **quad-core processor (e.g., Intel Xeon or AMD Ryzen 5)**, **16 GB of RAM**, and **500 GB of SSD storage** to ensure fast data access and processing. The system should have **a stable network connection (1 Gbps recommended)** to handle API requests efficiently. A **64-bit operating system** like Windows Server 2019 or a Linux distribution such as Ubuntu 22.04 is required, with Docker and Docker Compose pre-installed. Additionally, the PostgreSQL database will require optimized disk I/O, and the React frontend can be hosted on the same server or a dedicated Node.js environment for scalability. 
 
 **Server Requirements:**
+
 	|-- Processor: Quad-core CPU (e.g., Intel Xeon or AMD Ryzen 5)
 	|-- Memory: 16 GB RAM
 	|-- Storage: 500 GB SSD
